@@ -1,1 +1,0 @@
-# Kurdish-Localization-Files
