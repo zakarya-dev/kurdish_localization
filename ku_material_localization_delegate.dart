@@ -637,9 +637,6 @@ class KuMaterialLocalizations extends GlobalMaterialLocalizations {
   String get keyboardKeyDelete => throw UnimplementedError();
 
   @override
-  String get keyboardKeyEisu => throw UnimplementedError();
-
-  @override
   String get keyboardKeyEject => throw UnimplementedError();
 
   @override
@@ -652,34 +649,10 @@ class KuMaterialLocalizations extends GlobalMaterialLocalizations {
   String get keyboardKeyFn => throw UnimplementedError();
 
   @override
-  String get keyboardKeyHangulMode => throw UnimplementedError();
-
-  @override
-  String get keyboardKeyHanjaMode => throw UnimplementedError();
-
-  @override
-  String get keyboardKeyHankaku => throw UnimplementedError();
-
-  @override
-  String get keyboardKeyHiragana => throw UnimplementedError();
-
-  @override
-  String get keyboardKeyHiraganaKatakana => throw UnimplementedError();
-
-  @override
   String get keyboardKeyHome => throw UnimplementedError();
 
   @override
   String get keyboardKeyInsert => throw UnimplementedError();
-
-  @override
-  String get keyboardKeyKanaMode => throw UnimplementedError();
-
-  @override
-  String get keyboardKeyKanjiMode => throw UnimplementedError();
-
-  @override
-  String get keyboardKeyKatakana => throw UnimplementedError();
 
   @override
   String get keyboardKeyMeta => throw UnimplementedError();
@@ -769,9 +742,6 @@ class KuMaterialLocalizations extends GlobalMaterialLocalizations {
   String get keyboardKeyPrintScreen => throw UnimplementedError();
 
   @override
-  String get keyboardKeyRomaji => throw UnimplementedError();
-
-  @override
   String get keyboardKeyScrollLock => throw UnimplementedError();
 
   @override
@@ -779,10 +749,7 @@ class KuMaterialLocalizations extends GlobalMaterialLocalizations {
 
   @override
   String get keyboardKeySpace => throw UnimplementedError();
-
+  
   @override
-  String get keyboardKeyZenkaku => throw UnimplementedError();
-
-  @override
-  String get keyboardKeyZenkakuHankaku => throw UnimplementedError();
+  String get menuBarMenuLabel => throw UnimplementedError();
 }
