@@ -1,6 +1,7 @@
 // ignore_for_file: depend_on_referenced_packages, file_names
 
 import 'dart:async';
+
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
@@ -749,7 +750,61 @@ class KuMaterialLocalizations extends GlobalMaterialLocalizations {
 
   @override
   String get keyboardKeySpace => throw UnimplementedError();
-  
+
   @override
   String get menuBarMenuLabel => throw UnimplementedError();
+
+  @override
+  String get bottomSheetLabel => ' ';
+
+  @override
+  String get collapsedHint => ' ';
+
+  @override
+  String get currentDateLabel => ' ';
+
+  @override
+  String get expandedHint => ' ';
+
+  @override
+  String get expansionTileCollapsedHint => ' ';
+
+  @override
+  String get expansionTileCollapsedTapHint => ' ';
+
+  @override
+  String get expansionTileExpandedHint => ' ';
+
+  @override
+  String get expansionTileExpandedTapHint => ' ';
+
+  @override
+  String get keyboardKeyShift => ' ';
+
+  @override
+  String get scanTextButtonLabel => ' ';
+
+  @override
+  String get scrimOnTapHintRaw => ' ';
+
+  @override
+  String get scrimLabel => ' ';
+
+  @override
+  String get lookUpButtonLabel => ' ';
+
+  @override
+  String get menuDismissLabel => ' ';
+
+  @override
+  String get searchWebButtonLabel => ' ';
+
+  @override
+  String get shareButtonLabel => ' ';
+  
+  @override
+  String get clearButtonTooltip => ' ';
+  
+  @override
+  String get selectedDateLabel => ' ';
 }
