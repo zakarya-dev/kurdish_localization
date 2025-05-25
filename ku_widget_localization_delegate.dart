@@ -28,4 +28,22 @@ class KuWidgetLocalizations extends WidgetsLocalizations {
 
   @override
   TextDirection get textDirection => TextDirection.rtl;
+  
+  @override
+  String get reorderItemDown => throw UnimplementedError();
+  
+  @override
+  String get reorderItemLeft => throw UnimplementedError();
+  
+  @override
+  String get reorderItemRight => throw UnimplementedError();
+  
+  @override
+  String get reorderItemToEnd => throw UnimplementedError();
+  
+  @override
+  String get reorderItemToStart => throw UnimplementedError();
+  
+  @override
+  String get reorderItemUp => throw UnimplementedError();
 }
